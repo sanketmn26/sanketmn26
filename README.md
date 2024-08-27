@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sanket Nawale</h1>
   
  <p align="center"> 
-   ✌️ Enjoy to do programming and sharing knowledge <br/><br/>
-   ❤️ Love to writing code and learning new features<br/><br/>
+   ✌️ Enjoy programming and sharing knowledge <br/><br/>
+   ❤️ Love writing code and learning new features<br/><br/>
 </p>
 
 ## Tech Stack
