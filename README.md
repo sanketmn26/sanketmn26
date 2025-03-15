@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sanket Nawale</h1>
+<!-- <h1 align="center">Hi 👋, I'm Sanket Nawale</h1> -->
   
 <!-- <p align="center"> 
    ✌️ Enjoy programming and sharing knowledge <br/><br/>
@@ -23,6 +23,14 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+
+## Projects
+
+<h4>Doctor Appontment Booking</h4>
+<h4>Cycle Store - Ecommerce</h4>
+<h4>Search Engine</h4>
+<h4>SocialBuzz - Social Media</h4>
 
 
 <!-- Profile Stats Card -->
