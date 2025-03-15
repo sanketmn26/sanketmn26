@@ -27,10 +27,11 @@
 
 ## Projects
 
-<h4>Doctor Appontment Booking</h4>
-<h4>Cycle Store - Ecommerce</h4>
-<h4>Search Engine</h4>
-<h4>SocialBuzz - Social Media</h4>
+<h4>Doctor Appontment Booking - <a href="">Live Demo</a></h4>
+<h4>Cycle Store - Ecommerce - <a href="">Live Demo</a></h4>
+<h4>Search Engine- <a href="">Live Demo</a></h4>
+<h4>SocialBuzz - Social Media- <a href="">Live Demo</a></h4>
+<h4>SocialBuzz - Social Media- <a href="">Live Demo</a></h4>
 
 
 <!-- Profile Stats Card -->
