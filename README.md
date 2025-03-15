@@ -27,12 +27,12 @@
 
 ## Projects
 
-<h4>Doctor Appontment Booking - <a href="https://smn-doctor-appointment-booking.vercel.app/">Live Demo</a></h4>
-<h4>Cycle Store - Ecommerce - <a href="https://smn-cycle-store.netlify.app/">Live Demo</a></h4>
-<h4>Search Engine - <a href="https://search-engine-api-smn.netlify.app/">Live Demo</a></h4>
-<h4>SocialBuzz - Social Media - <a href="https://smn-social-buzz.netlify.app/">Live Demo</a></h4>
-<h4>Notes App - <a href="https://smn-notes-app.vercel.app/">Live Demo</a></h4>
-<h4>Blog Site - <a href="https://smn-blog-site.netlify.app/">Live Demo</a></h4>
+<h4>Doctor Appontment Booking - <a href="https://smn-doctor-appointment-booking.vercel.app/" target="_blank">Live Demo</a></h4>
+<h4>Cycle Store - Ecommerce - <a href="https://smn-cycle-store.netlify.app/" target="_blank">Live Demo</a></h4>
+<h4>Search Engine - <a href="https://search-engine-api-smn.netlify.app/" target="_blank">Live Demo</a></h4>
+<h4>SocialBuzz - Social Media - <a href="https://smn-social-buzz.netlify.app/" target="_blank">Live Demo</a></h4>
+<h4>Notes App - <a href="https://smn-notes-app.vercel.app/" target="_blank">Live Demo</a></h4>
+<h4>Blog Site - <a href="https://smn-blog-site.netlify.app/" target="_blank">Live Demo</a></h4>
 
 
 <!-- Profile Stats Card -->
